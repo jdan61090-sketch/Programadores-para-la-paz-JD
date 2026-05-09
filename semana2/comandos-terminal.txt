@@ -1,0 +1,6 @@
+pwd
+ls
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+tocuh reflexion-semana2.txt
