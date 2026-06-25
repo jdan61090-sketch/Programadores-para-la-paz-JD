@@ -1,0 +1,6 @@
+La seguridad digital es un pilar fundamental en lo que conocemos como internet. 
+nos brinda un resguardo de nuestra informacion y actividades que realizamos en esta
+un punto crucial en las plataformas o procesos participativos es dirigir toda
+la confianza en el usuario evitando asi manipuoacion de datos, hackeos, etc.
+garantiza estabilidad en caso de bulnerabilidad por ataques ciberneticos.
+en conclucion sin confianza no hay participacion.

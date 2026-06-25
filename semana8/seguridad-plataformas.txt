@@ -1,0 +1,5 @@
+1: Discretividad con informacion sensible
+2: Eliminacion de datos y credenciales en equipos publicos
+3: Contraseñas seguras
+4: Registro de accesos
+5: Respeto

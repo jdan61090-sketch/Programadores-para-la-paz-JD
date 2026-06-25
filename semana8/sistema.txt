@@ -1,0 +1,5 @@
+uname -a: sirve para verificar si la arquitectura del servidor es compatible con
+el software o las versiones de node.js que se van a instalar.
+
+whoami: esta te da a conocer si contamos con los permisos de administrador 
+que necesitamos para editar o modificar archivos

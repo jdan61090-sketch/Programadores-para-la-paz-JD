@@ -1,0 +1,3 @@
+1:Usar contraseñas con caracteres variados
+2:No compartir tus claves
+3:Actualizar tu sistema operativo
