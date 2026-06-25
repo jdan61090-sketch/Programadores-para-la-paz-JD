@@ -1,0 +1,3 @@
+http://localhost:3000: en esta ruta podemos visualisar que el servidor esta funcionando correctamente
+http://localhost:3000/saludo: en esta vemos un cordial saludo de parte del autor del servidor
+http://localhost:3000/mensaje/juan: aqui obtenemos un saludo personal 

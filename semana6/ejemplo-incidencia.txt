@@ -1,0 +1,4 @@
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que las farolas de la calle principal están dañadas y el sector queda completamente a oscuras por las noches."
+}

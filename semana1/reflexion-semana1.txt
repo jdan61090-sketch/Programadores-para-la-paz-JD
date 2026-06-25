@@ -1,0 +1,9 @@
+La relación fundamental es la transparencia.
+Así como Git permite ver quién hizo cada cambio en un código,
+el uso responsable de la información nos obliga 
+a verificar las fuentes antes de compartirlas. 
+Esta disciplina técnica crea un entorno de confianza
+indispensable para la participación ciudadana.
+El usar el conjunto de estos elementos forma 
+una estructura fuerte y fiable para todo 
+proyecto o gestion a realizar.

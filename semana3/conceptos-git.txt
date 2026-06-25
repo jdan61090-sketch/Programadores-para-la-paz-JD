@@ -1,0 +1,6 @@
+Repositorio:
+R//Es en pocas palabras una carpeta temporal que registra y guarda paso a paso los procesos
+Commit:
+R//Es un autoguardado mas avanzado
+Push:
+R//Es el resguardo virtual de ese autoguardado que realizas con el comando "commit" 

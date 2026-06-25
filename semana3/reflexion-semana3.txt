@@ -1,0 +1,10 @@
+Mas que importante se puede decir que es vital tener tus proyectos con respaldo 
+o simplemente por si en algun momento deseas acceder a ellos versatilmente.
+una base tan compleja y moldeable como lo son los proyectos de software requiere 
+precision y volatidad para manejar y registrar tanta informacion.
+git siendo protagonista principal en este tema merece reconocimiento y cabe nombrarlo
+ya que con este podemos experimentar en nuestra base sin miedo a perder o arruinar
+lo que tanto ha costado. tambien nos ofrece y registra una base limpia y organizada
+sin tanto trabajo y por ultimo a destacar la trazabilidad completa del proyecto.
+en pocas palabras tenemos un lugar facil, rapido y seguro al que adentrarnos y 
+dejar volar nuestra imaginacion y conocimiento.

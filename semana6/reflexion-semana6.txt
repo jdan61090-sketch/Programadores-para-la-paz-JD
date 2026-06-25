@@ -1,0 +1,8 @@
+El formato JSON permite al servidor procesar y clasificar reportes comunitarios 
+automáticamente sin lecturas manuales. 
+Al organizar la información en variables 
+fijas, el software puede agrupar datos idénticos para generar estadísticas sobre 
+necesidades reales. Además, facilita validar que ningún reporte llegue incompleto 
+y permite al sistema escalar de forma eficiente. 
+En resumen, transforma mensajes 
+sueltos en datos organizados y accionables para la comunidad.

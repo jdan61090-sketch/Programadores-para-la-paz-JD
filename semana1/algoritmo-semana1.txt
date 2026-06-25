@@ -1,0 +1,6 @@
+1: lee la informacion completamente
+2: analiza por temas detonantes
+3: revisa quien realizó la publicacion
+4: mira la fecha de la publicacion
+5: busca por bibliografias
+6: indaga en la web en busca de mas informacion

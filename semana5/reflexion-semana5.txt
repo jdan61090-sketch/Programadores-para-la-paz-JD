@@ -1,0 +1,12 @@
+Las APIs actúan como puentes que estandarizan el intercambio de datos, 
+permitiendo que diferentes aplicaciones comunitarias se comuniquen entre sí 
+de forma automática y ordenada. 
+Al usarlas, una comunidad puede conectar canales disperso; 
+como un bot de mensajería, un formulario web y alertas SMS— a una base de datos 
+centralizada, evitando el caos de reportes duplicados. 
+Al estructurar la información con datos fijos (fecha, tipo de alerta y ubicación), 
+resulta muy fácil filtrar y priorizar los casos según su urgencia. 
+Esto permite automatizar tareas clave, como el envío de notificaciones masivas 
+inmediatas o la actualización de mapas comunitarios en tiempo real. 
+Así, las APIs transforman reportes sueltos en un flujo organizado que 
+optimiza la respuesta colectiva.
