@@ -1,0 +1,19 @@
+Sistema operativo:
+El sistema operativo o software es el sistema nervioso de un aparato electronico
+que se encarga de darle las ultilidades al hardware.
+
+Node.js:
+es un entorno de ejecución (o runtime) de JavaScript orientado a eventos 
+asíncronos, diseñado para construir aplicaciones de red escalables.
+
+Aplicación server.js:
+Cuando se usa junto a node.js es la encargada de escuchar, responder y procesar
+todas las peticiones que hagan los usuarios desde internet.
+
+Puerto:
+es una puerta de entrada virtual y numerada que tiene tu sistema operativo para 
+organizar el tráfico de datos que entra y sale de tu dispositivo.
+
+Logs:
+son archivos de texto donde un sistema, una aplicación o un servidor anota 
+cronológicamente todo lo que va sucediendo mientras está funcionando.

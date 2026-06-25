@@ -1,0 +1,11 @@
+Qué ocurre cuando ejecutas node server.js:
+Node.js interpreta el código del archivo, inicializa el entorno de Express 
+y levanta un proceso local que se queda escuchando de forma activa y permanente 
+las solicitudes HTTP entrantes en el puerto asignado.
+
+El mensaje que aparece en la terminal es:
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+
+El servidor procesa la solicitud del navegador o cliente HTTP, entra a la ruta 
+configurada y responde enviando un objeto en formato JSON.
