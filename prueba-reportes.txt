@@ -1,0 +1,3 @@
+Al consultar los reportes mediante una petición HTTP GET a la ruta '/reportes', 
+el servidor Express responde de manera exitosa entregando un arreglo en formato 
+JSON.

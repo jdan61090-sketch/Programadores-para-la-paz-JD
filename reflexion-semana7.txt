@@ -1,0 +1,6 @@
+Es fundamental porque centraliza la información en tiempo real, 
+lo que permite a los ciudadanos reportar problemas (como fallos en servicios o 
+vías) y a los administradores priorizar soluciones de forma eficiente. 
+Además, promueve la transparencia y el empoderamiento comunitario, 
+ya que cualquiera puede consultar el estado de las incidencias, 
+mejorando la rendición de cuentas y la gestión colectiva del entorno.
