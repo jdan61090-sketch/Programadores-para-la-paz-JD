@@ -1,0 +1,21 @@
+1. ¿Qué evento activa el flujo?
+El evento que activa el flujo es un "Webhook" (una solicitud HTTP POST) que se dispara automáticamente desde el backend de nuestra aplicación cada vez que un usuario registra exitosamente una nueva incidencia en la ruta /incidencia. n8n recibe los datos de ese nuevo reporte para procesarlos.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviará un mensaje de notificación formateado que resuma los datos clave del reporte para que el equipo pueda actuar rápido. 
+
+Ejemplo de mensaje:
+" ¡Nueva Incidencia Registrada! 
+• Tipo: [Tipo de incidencia, ej: Alumbrado / Vía dañada]
+• Ubicación: [Sector o Dirección]
+• Descripción: [Breve detalle ingresado por el usuario]
+• ID del Reporte: [Número de ID]
+
+Por favor, revisar el panel de administración para asignarle un estado."
+
+3. ¿Qué información no debería enviarse por seguridad?
+Por motivos de privacidad, seguridad y cumplimiento de protección de datos, bajo ninguna circunstancia se deben enviar en el mensaje de Telegram:
+- Datos personales sensibles del ciudadano que reporta (como su número de cédula/documento de identidad, contraseña, dirección exacta de su domicilio personal o número de teléfono privado).
+- Credenciales de acceso al servidor o tokens de la API.
+- Datos técnicos internos como contraseñas de la base de datos o rutas completas de archivos del servidor.
+

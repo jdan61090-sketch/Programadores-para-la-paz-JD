@@ -1,0 +1,8 @@
+1: Como usuario me gustaria guiar y ayudar a nuevos usuarios a generar un 
+ambiente pacifico donde todas las preguntas y necesidades sean atendidas.
+
+2: Como veedor procederé a anotar cualquier cambio o irregularidad que 
+encuentre en nuestro sistema.
+
+3: Como gestor del codigo fuente espero implementar los mejores mecanismos
+de seguridad y gestion supervisada por desarroladores expertos.	

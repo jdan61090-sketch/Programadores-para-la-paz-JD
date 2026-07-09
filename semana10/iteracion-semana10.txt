@@ -1,0 +1,14 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+- Tarea 1: [Ejemplo: Configuración de la base de datos de incidencias / Rutas principales del backend]
+- Tarea 2: [Ejemplo: Conexión de las rutas con el almacenamiento de datos / Validaciones básicas]
+
+2. ¿Por qué son las más importantes?
+Estas tareas son prioritarias porque representan la base lógica y funcional del sistema. Sin la configuración correcta de las rutas iniciales y el manejo de datos, no es posible construir las funcionalidades visuales ni realizar integraciones posteriores. Resolver el núcleo técnico primero reduce riesgos y asegura que el flujo básico funcione.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+Para mí, una tarea está realmente terminada cuando no solo se ha escrito el código, sino que este ha sido verificado, no rompe otras partes del sistema y está guardado de forma segura en el repositorio, listo para ser revisado o desplegado.
+
+Definición de terminado (DoD - Definition of Done):
+- El código cumple con los requerimientos solicitados y funciona correctamente en el entorno local (ej. Termux/Node.js).
+- Se realizaron pruebas locales (como peticiones con Postman o herramientas de prueba) que confirman un resultado exitoso (código de estado 200/201).
+- El código está limpio, libre de comentarios innecesarios de depuración, y los cambios fueron guardados y subidos al repositorio remoto con Git (git commit y git push).
