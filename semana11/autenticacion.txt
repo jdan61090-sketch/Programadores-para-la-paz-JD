@@ -1,0 +1,5 @@
+El login es el proceso que identifica a un usuario para darle acceso a la plataforma. 
+Ciertas rutas deben estar protegidas para evitar que personas no autorizadas o bots 
+modifiquen datos, borren registros o dupliquen votos de manera fraudulenta. 
+Por seguridad, nunca debe exponerse públicamente información sensible como contraseñas, 
+correos electrónicos, datos de identidad (cédulas) ni tokens de sesión.

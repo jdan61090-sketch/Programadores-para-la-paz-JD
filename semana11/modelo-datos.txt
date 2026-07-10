@@ -1,0 +1,69 @@
+ENTIDAD 1: Causa
+----------------------------------------------------------------------
+* Nombre de la entidad: Causa
+* Propósito de la información: 
+  Almacenar y gestionar los diferentes proyectos, iniciativas sociales, 
+  o problemas comunitarios que los usuarios publican en la plataforma 
+  para buscar visibilidad, recursos o voluntarios.
+
+* Campos principales:
+  - id_causa: Entero (Clave primaria única)
+  - titulo: Texto (Nombre o cabecera de la iniciativa)
+  - descripcion: Texto largo (Detalle del problema o meta de la causa)
+  - categoria: Texto (Ej. Medio ambiente, Educación, Salud, Infraestructura)
+  - fecha_creacion: Fecha (Día en que se registró la causa)
+  - estado: Texto (Ej. Activa, Completada, En pausa)
+
+* Ejemplos de registros:
+  
+  [Ejemplo 1]
+  - id_causa: 101
+  - titulo: "Reforestación del Parque Central"
+  - descripcion: "Campaña comunitaria para plantar 200 árboles nativos y recuperar las zonas verdes afectadas por la sequía."
+  - categoria: "Medio ambiente"
+  - fecha_creacion: 2026-03-15
+  - estado: "Activa"
+
+  [Ejemplo 2]
+  - id_causa: 102
+  - titulo: "Comedor Escolar Barrio San José"
+  - descripcion: "Recolección de alimentos no perecederos y utensilios de cocina para asegurar el almuerzo diario de 50 niños del sector."
+  - categoria: "Educación y Alimentación"
+  - fecha_creacion: 2026-04-02
+  - estado: "Activa"
+
+
+----------------------------------------------------------------------
+ENTIDAD 2: Apoyo
+----------------------------------------------------------------------
+* Nombre de la entidad: Apoyo
+* Propósito de la información: 
+  Registrar las interacciones, contribuciones o soporte (ya sea mediante 
+  tiempo como voluntariado, donaciones o firmas de respaldo) que los 
+  miembros de la comunidad ofrecen a una causa específica.
+
+* Campos principales:
+  - id_apoyo: Entero (Clave primaria única)
+  - id_causa: Entero (Clave foránea que conecta este apoyo con una Causa)
+  - tipo_apoyo: Texto (Ej. Voluntariado, Donación económica, Difusión)
+  - cantidad_o_tiempo: Texto o Número (Detalle del aporte realizado)
+  - fecha_apoyo: Fecha (Día en que se realizó la contribución)
+  - comentario: Texto libre (Mensaje de aliento o nota del colaborador)
+
+* Ejemplos de registros:
+
+  [Ejemplo 1 - Vinculado a la Causa 101]
+  - id_apoyo: 5001
+  - id_causa: 101
+  - tipo_apoyo: "Voluntariado"
+  - cantidad_o_tiempo: "4 horas de mano de obra"
+  - fecha_apoyo: 2026-03-20
+  - comentario: "Asistiré el sábado con mis propias herramientas para ayudar a plantar."
+
+  [Ejemplo 2 - Vinculado a la Causa 102]
+  - id_apoyo: 5002
+  - id_causa: 102
+  - tipo_apoyo: "Donación en especie"
+  - cantidad_o_tiempo: "10 kg de arroz y 5 litros de aceite"
+  - fecha_apoyo: 2026-04-05
+  - comentario: "Dejo los alimentos en el centro de acopio principal por la tarde."

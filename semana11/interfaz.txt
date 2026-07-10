@@ -1,0 +1,26 @@
+1. FORMULARIO (Crear Causa)
+----------------------------------
+* Campo: Título de la causa
+* Campo: Descripción del problema
+* Botón: [ Publicar Causa ]
+
+2. VISTA DE CAUSAS (Listado)
+----------------------------------
+Muestra las causas creadas en tarjetas simples:
+
++--------------------------------------------+
+| TÍTULO: Falta iluminación en el Parque     |
+| DESCRIPCIÓN: Las luces del sector norte    |
+| no funcionan desde hace una semana.        |
+|                                            |
+| CONTADOR: 45 apoyos                        |
+| BOTÓN: [ 👍 Apoyar Causa ]                 |
++--------------------------------------------+
+
+3. FUNCIONAMIENTO DE LOS COMPONENTES
+----------------------------------
+* Botón Apoyar: Al presionarlo, verifica que el
+  usuario tenga sesión activa, suma +1 al contador
+  y se bloquea para evitar doble voto.
+* Contador: Muestra en tiempo real cuántas 
+  personas respaldan la iniciativa.

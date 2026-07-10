@@ -1,0 +1,9 @@
+Para que una plataforma de participación ciudadana funcione de verdad,
+no basta con que sea bonita o fácil de usar; necesita ser confiable. 
+Si los ciudadanos no sienten que el espacio es seguro y serio, simplemente 
+no van a participar.
+​Esas tres herramientas que mencionas (base de datos, autenticación y seguridad) 
+son los tres pilares que sostienen esa confianza.
+La base de datos organiza la voz del ciudadano, la autenticación valida que esa 
+voz sea real, y la protección de información garantiza que el ciudadano no corra 
+peligro al expresarse.
