@@ -1,0 +1,22 @@
+Entidad: Proyecto
+-----------------------------------------
+Atributos:
+- id: Identificador único del proyecto (llave primaria).
+- nombre: El título o nombre del proyecto (ej. "Estudios", "Trabajo", "Hogar").
+- descripcion: Breve detalle sobre el objetivo del proyecto.
+- fecha_creacion: Fecha en la que se organizó este espacio de trabajo.
+
+Explicación:
+Esta entidad sirve para agrupar de forma lógica las diferentes actividades del usuario. Funciona como un contenedor principal; por ejemplo, un proyecto llamado "Curso de Programación".
+
+
+Entidad: Tarea
+-----------------------------------------
+Atributos:
+- id: Identificador único de la tarea específica (llave primaria).
+- proyecto_id: El id del proyecto al que pertenece la tarea (llave foránea que conecta con la entidad Proyecto).
+- contenido: El texto descriptivo de la acción a realizar (ej. "Instalar Node.js").
+- completada: Un valor booleano (verdadero/falso) para saber si la tarea ya se hizo.
+
+Explicación:
+Esta entidad sirve para registrar cada una de las acciones concretas y pendientes. Al incluir "proyecto_id", se vincula directamente con su contenedor, permitiendo que un proyecto tenga muchas tareas asociadas, pero que cada tarea pertenezca a un único proyecto.

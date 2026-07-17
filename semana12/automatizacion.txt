@@ -1,0 +1,8 @@
+automatizacion:
+
+Evento: Cargue de archivo multimedia
+Mensaje: Enviando "archivo" 
+Informacion que no debe enviarse: Archivos sensibles, personales, revisar con anterioridad el archivo que se desea compartir
+
+Diariamente deseamos compartir archivos no textuales y necesitamos una confirmacion al momento de darle cargue al archivo para llevar un registro y estar seguro que fue cargado y guardado
+

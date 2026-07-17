@@ -1,0 +1,7 @@
+Peticion en 3 clics:
+Ejemplo// 
+1: El usuario ingresa a la app de mensajeria
+2: ingresa al chat de la persona requerida
+3: Mantiene presionado el icono con forma de microfono
+4: procede a hablar y grabar una nota de voz
+5: suelta el icono y automaticamente se envia el mensaje de voz
